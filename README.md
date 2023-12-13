@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/5LMFcsw.png" alt="Windows logo"/>
+</p>
+
 <h1>Diskpart- Command Prompt Disk Cleaning</h1>
 
 <h2>Description</h2>
