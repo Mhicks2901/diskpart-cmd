@@ -5,8 +5,7 @@
 <h1>Diskpart- Command Prompt Disk Cleaning</h1>
 
 <h2>Description</h2>
-Project consists of a simple command prompt line that shows the user through erasing/cleaning any drives that are connected to the system.
-
+The project consists of a simple command prompt line showing the user through erasing/cleaning any drives connected to the system.
 
 <h2>Languages and Utilities Used</h2>
 
